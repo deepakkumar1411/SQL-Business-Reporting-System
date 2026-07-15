@@ -136,9 +136,9 @@ The Power BI dashboard is connected to the **sales_reporting** table in MySQL an
 
 
 
-```markdown
-![Dashboard](Screenshots/dashboard.png)
-```
+## Dashboard Preview
+
+![SQL Business Reporting Dashboard](Screenshots/dashboard.png)
 
 ---
 
